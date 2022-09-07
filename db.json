@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "empezar segundo modulo de angular",
+      "day": "agosto 19 de 2022",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "preparar examen aws particioner",
+      "day": "agosto 21 de 2022",
+      "reminder": true
+    },
+    {
+      "text": "cumple Priscila",
+      "day": "06/09/2022",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "comprar torta",
+      "day": "hoy 6pm",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "sasasas",
+      "day": "asasas",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "dsdsds",
+      "day": "asasas",
+      "reminder": false,
+      "id": 10
+    }
+  ]
+}
