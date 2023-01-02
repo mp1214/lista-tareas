@@ -13,7 +13,7 @@ const httpotions={
   providedIn: 'root'
 })
 export class TaskService {
-private apiUrl='http://localhost:5000/tasks';
+private apiUrl='https://api-task-list.onrender.com/tasks';
   constructor(private http: HttpClient) { }
 
   getTasks(): Observable<Task[]>{
